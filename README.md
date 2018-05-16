@@ -3,7 +3,7 @@ PHP_CodeSniffer - PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and de
 
 # Quick start
 * Local Build: docker build -t phpcs .
-* Local Run: docker run -it phpcs phpcs -V
+* Local Run: docker run -it phpcs phpcs --version
 
 # Supported tags and respective `Dockerfile` links
 * `3.2.3`, `latest`
